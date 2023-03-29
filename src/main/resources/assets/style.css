@@ -1,0 +1,8 @@
+.btn-submit {
+    -fx-padding: 20px 40px;
+    -fx-font-size: 14px;
+    -fx-font-weight: 600;
+    -fx-border-radius: 4px;
+    -fx-background-color: #000;
+    -fx-text-fill: #ffffff;
+}
